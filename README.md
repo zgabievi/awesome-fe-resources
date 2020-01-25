@@ -11,6 +11,7 @@ List of resources that are well documented, well tested, flexible for many proje
 [<img src="https://reactjs.org/favicon.ico" width="32" height="32" alt="React">](https://reactjs.org)
 [<img src="https://vuejs.org/images/icons/favicon-32x32.png" width="32" height="32" alt="Vue.js">](https://vuejs.org)
 [<img src="https://angular.io/assets/images/favicons/favicon-32x32.png" width="32" height="32" alt="Angular">](https://angular.io)
+[<img src="https://mithril.js.org/favicon.png" width="32" height="32" alt="Mithril.js">](https://mithril.js.org)
 [<img src="https://tiptap.scrumpy.io/assets/images/favicon.ico" width="32" height="32" alt="tiptap">](https://tiptap.scrumpy.io)
 [<img src="https://quilljs.com/assets/images/favicon.ico" width="32" height="32" alt="Quill">](https://quilljs.com)
 [<img src="https://vanillalist.top/assets/favicons/favicon-32x32-4367987f1376d96d93a7da0e13d1a1d91a2cb3f6b43a43283c6015cd412a5e02.png" width="32" height="32" alt="Vanilla List">](https://vanillalist.top)
@@ -41,6 +42,7 @@ List of resources that are well documented, well tested, flexible for many proje
 - [Vue.js](https://vuejs.org) - Though developed in the year 2016, this JavaScript framework has already made its way into the market and has proven its worth by offering various features. Its dual integration mode is one of the most attractive features for the creation of high-end SPA or Single Page Application. It is a much reliable platform for developing cross-platform.
 - [Angular](https://angular.io) - One of the most powerful, efficient, and open-source JavaScript frameworks is Angular. Google operates this framework and is implemented to use for developing a Single Page Application (SPA). It extends the HTML into the application and interprets the attributes to perform data binding.
 - [Svelte](https://svelte.dev) - Svelte is a radical new approach to building user interfaces. Whereas traditional frameworks like React and Vue do the bulk of their work in the browser, Svelte shifts that work into a compile step that happens when you build your app.
+- [Mithril.js](https://mithril.js.org) - Mithril is a modern client-side JavaScript framework for building Single Page Applications. It's small (< 10kb gzip), fast and provides routing and XHR utilities out of the box.
 
 #### JS Libraries
 ##### JS File Uploaders
