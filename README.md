@@ -16,6 +16,8 @@ List of resources that are well documented, well tested, flexible for many proje
 [<img src="https://quilljs.com/assets/images/favicon.ico" width="32" height="32" alt="Quill">](https://quilljs.com)
 [<img src="https://vanillalist.top/assets/favicons/favicon-32x32-4367987f1376d96d93a7da0e13d1a1d91a2cb3f6b43a43283c6015cd412a5e02.png" width="32" height="32" alt="Vanilla List">](https://vanillalist.top)
 [<img src="https://web.dev/images/favicon@2x.png" width="32" height="32" alt="web.dev">](https://web.dev)
+[<img src="https://2018.stateofjs.com/images/favicon.png" width="32" height="32" alt="The State of JavaScript">](https://stateofjs.com)
+[<img src="https://2019.stateofcss.com/images/favicon.png" width="32" height="32" alt="The State of CSS">](https://stateofcss.com)
 
 ## Table of Contents
 - [Essentials](#essentials)
@@ -63,3 +65,5 @@ List of resources that are well documented, well tested, flexible for many proje
 
 ### ONLINE Resources
 - [Vanilla List](https://vanillalist.top) - The Vanilla JavaScript Repository. Coz' sometimes you feel guilty for using jQuery.
+- [State of JS](https://stateofjs.com) - JavaScript is always changing. New libraries, new frameworks, new languages… It's part of the fun, but it can also feel overwhelming sometimes. That's where the State of JavaScript survey comes in: this year, we surveyed over 20,000 JavaScript developers to figure out what they're using, what they're happy with, and what they want to learn. And the result is a unique collection of stats and insights that will hopefully help you make your own way through the JavaScript ecosystem.
+- [State of CSS](https://stateofcss.com) - In the web development family, JavaScript has developed a bit of a reputation as the angry, rebellious teenager going through a new phase every year and telling you you're just too old to understand. CSS on the other hand has always been the studious, well-behaved kid who always stays polite and never makes a rash decision. But don't take things for granted: despite being over 20 years old, there's signs that CSS might be going through the same tumultuous teenage years that JavaScript just went through. Flexbox! Grid! CSS-in-JS! In 2019, CSS is finally dyeing its hair pink and getting a tattoo just like it's always secretly wanted. Parenting books won't help much with this one, but that's where we come in: we've surveyed over 10,000 developers in this first ever State of CSS survey. So join us to find out which CSS features are used the most, which tools are gaining adoption, and much more.
