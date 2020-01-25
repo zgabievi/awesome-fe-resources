@@ -31,6 +31,7 @@ List of resources that are well documented, well tested, flexible for many proje
 [<img src="https://glidejs.com/favicon.ico" width="32" height="32" alt="Glide.js">](https://glidejs.com)
 [<img src="https://www.cypress.io/icons/icon-48x48.png" width="32" height="32" alt="Cypress">](https://www.cypress.io)
 [<img src="https://jestjs.io/img/favicon/favicon.ico" width="32" height="32" alt="Jest">](https://jestjs.io)
+[<img src="https://javascript.info/img/favicon/favicon.png" width="32" height="32" alt="javascript.info">](https://javascript.info)
 
 ## Table of Contents
 - [Essentials](#essentials)
@@ -111,7 +112,7 @@ List of resources that are well documented, well tested, flexible for many proje
 - [MJML](https://mjml.io) - MJML is a markup language designed to reduce the pain of coding a responsive email. Its semantic syntax makes it easy and straightforward and its rich standard components library speeds up your development time and lightens your email codebase. MJML’s open-source engine generates high quality responsive HTML compliant with best practices.
 
 ### ONLINE Resources
-- [Javascript.info](https://javascript.info/) - The Modern JavaScript Tutorial. From the basics to advanced topics with simple, but detailed explanations.
+- [javascript.info](https://javascript.info/) - The Modern JavaScript Tutorial. From the basics to advanced topics with simple, but detailed explanations.
 - [Vanilla List](https://vanillalist.top) - The Vanilla JavaScript Repository. Coz' sometimes you feel guilty for using jQuery.
 - [State of JS](https://stateofjs.com) - JavaScript is always changing. New libraries, new frameworks, new languages… It's part of the fun, but it can also feel overwhelming sometimes. That's where the State of JavaScript survey comes in: this year, we surveyed over 20,000 JavaScript developers to figure out what they're using, what they're happy with, and what they want to learn. And the result is a unique collection of stats and insights that will hopefully help you make your own way through the JavaScript ecosystem.
 - [State of CSS](https://stateofcss.com) - In the web development family, JavaScript has developed a bit of a reputation as the angry, rebellious teenager going through a new phase every year and telling you you're just too old to understand. CSS on the other hand has always been the studious, well-behaved kid who always stays polite and never makes a rash decision. But don't take things for granted: despite being over 20 years old, there's signs that CSS might be going through the same tumultuous teenage years that JavaScript just went through. Flexbox! Grid! CSS-in-JS! In 2019, CSS is finally dyeing its hair pink and getting a tattoo just like it's always secretly wanted. Parenting books won't help much with this one, but that's where we come in: we've surveyed over 10,000 developers in this first ever State of CSS survey. So join us to find out which CSS features are used the most, which tools are gaining adoption, and much more.
