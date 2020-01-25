@@ -15,6 +15,7 @@ List of resources that are well documented, well tested, flexible for many proje
 [<img src="https://tiptap.scrumpy.io/assets/images/favicon.ico" width="32" height="32" alt="tiptap">](https://tiptap.scrumpy.io)
 [<img src="https://quilljs.com/assets/images/favicon.ico" width="32" height="32" alt="Quill">](https://quilljs.com)
 [<img src="https://vanillalist.top/assets/favicons/favicon-32x32-4367987f1376d96d93a7da0e13d1a1d91a2cb3f6b43a43283c6015cd412a5e02.png" width="32" height="32" alt="Vanilla List">](https://vanillalist.top)
+[<img src="https://web.dev/images/favicon@2x.png" width="32" height="32" alt="web.dev">](https://web.dev)
 
 ## Table of Contents
 - [Essentials](#essentials)
@@ -58,6 +59,7 @@ List of resources that are well documented, well tested, flexible for many proje
 
 ### Optimization
 - [SVGOMG](https://jakearchibald.github.io/svgomg/) - SVG Optimizer is a Nodejs-based tool for optimizing SVG vector graphics files. SVGOMG is SVGO's Missing GUI.
+- [web.dev](https://web.dev) - Get the web's modern capabilities on your own sites and apps with useful guidance and analysis from web.dev.
 
 ### ONLINE Resources
 - [Vanilla List](https://vanillalist.top) - The Vanilla JavaScript Repository. Coz' sometimes you feel guilty for using jQuery.
