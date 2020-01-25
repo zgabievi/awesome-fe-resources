@@ -25,6 +25,7 @@ List of resources that are well documented, well tested, flexible for many proje
 [<img src="https://animejs.com/documentation/assets/img/favicon.png" width="32" height="32" alt="anime.js">](https://animejs.com)
 [<img src="https://mciastek.github.io/sal/website/images/favicon-32x32.png" width="32" height="32" alt="Sal">](https://mciastek.github.io/sal/)
 [<img src="https://mjml.io/favicon.ico" width="32" height="32" alt="MJML">](https://mjml.io)
+[<img src="https://shopify.github.io/draggable/assets/img/favicons/favicon-32x32.png" width="32" height="32" alt="Draggable JS">](https://shopify.github.io/draggable/)
 
 ## Table of Contents
 - [Essentials](#essentials)
@@ -71,6 +72,7 @@ List of resources that are well documented, well tested, flexible for many proje
 ##### JS Motion
 - [anime.js](https://animejs.com) - Anime.js is a lightweight JavaScript animation library with a simple, yet powerful API. It works with CSS properties, SVG, DOM attributes and JavaScript Objects.
 - [Sal](https://mciastek.github.io/sal/) - Performance focused, lightweight (less than 2.8 kb) scroll animation library, written in vanilla JavaScript. No dependencies!
+- [Draggable JS](https://shopify.github.io/draggable/) - Draggable is a modern drag and drop JavaScript library. Lightweight, modular and accessible.
 
 ##### JS Forms
 - [Cleave.js](https://nosir.github.io/cleave.js/) - Format your <input/> content when you are typing
