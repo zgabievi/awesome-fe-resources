@@ -23,6 +23,7 @@ List of resources that are well documented, well tested, flexible for many proje
 [<img src="https://gridcritters.com/img/starfox.png" width="32" height="32" alt="Grid Critters">](https://gridcritters.com)
 [<img src="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:32,height:32/https://www.filepicker.io/api/file/aChns00QHmW1uFPugDx1" width="32" height="32" alt="Flexbox Zombies">](https://flexboxzombies.com)
 [<img src="https://animejs.com/documentation/assets/img/favicon.png" width="32" height="32" alt="anime.js">](https://animejs.com)
+[<img src="https://mciastek.github.io/sal/website/images/favicon-32x32.png" width="32" height="32" alt="Sal">](https://mciastek.github.io/sal/)
 
 ## Table of Contents
 - [Essentials](#essentials)
@@ -65,6 +66,7 @@ List of resources that are well documented, well tested, flexible for many proje
 
 ##### JS Motion
 - [anime.js](https://animejs.com) - Anime.js is a lightweight JavaScript animation library with a simple, yet powerful API. It works with CSS properties, SVG, DOM attributes and JavaScript Objects.
+- [Sal](https://mciastek.github.io/sal/) - Performance focused, lightweight (less than 2.8 kb) scroll animation library, written in vanilla JavaScript. No dependencies!
 
 ##### JS Forms
 - [Cleave.js](https://nosir.github.io/cleave.js/) - Format your <input/> content when you are typing
