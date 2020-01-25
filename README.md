@@ -22,6 +22,7 @@ List of resources that are well documented, well tested, flexible for many proje
 [<img src="https://serviceworkies.com/favicon.ico" width="32" height="32" alt="Service Workies">](https://serviceworkies.com)
 [<img src="https://gridcritters.com/img/starfox.png" width="32" height="32" alt="Grid Critters">](https://gridcritters.com)
 [<img src="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:32,height:32/https://www.filepicker.io/api/file/aChns00QHmW1uFPugDx1" width="32" height="32" alt="Flexbox Zombies">](https://flexboxzombies.com)
+[<img src="https://animejs.com/documentation/assets/img/favicon.png" width="32" height="32" alt="anime.js">](https://animejs.com)
 
 ## Table of Contents
 - [Essentials](#essentials)
@@ -32,6 +33,8 @@ List of resources that are well documented, well tested, flexible for many proje
   - [JS Libraries](#js-libraries)
     - [JS File Uploaders](#js-file-uploaders)
     - [WYSIWYG](#wysiwyg)
+    - [JS Motion](#js-motion)
+    - [JS Forms](#js-forms)
   - [Testing](#js-testing)
 - [Optimization](#optimization)
 - [ONLINE Resources](#online-resources)
@@ -59,6 +62,12 @@ List of resources that are well documented, well tested, flexible for many proje
 ##### WYSIWYG
 - [tiptap](https://tiptap.scrumpy.io) - This editor is based on Prosemirror, fully extendable and renderless. You can easily add custom nodes as Vue components.
 - [Quill](https://quilljs.com) - Your powerful rich text editor.
+
+##### JS Motion
+- [anime.js](https://animejs.com) - Anime.js is a lightweight JavaScript animation library with a simple, yet powerful API. It works with CSS properties, SVG, DOM attributes and JavaScript Objects.
+
+##### JS Forms
+- [Cleave.js](https://nosir.github.io/cleave.js/) - Format your <input/> content when you are typing
 
 #### JS Testing
 - [Mirage JS](https://miragejs.com) - Mirage JS is an API mocking library that lets you build, test and share a complete working JavaScript application without having to rely on any backend services.
