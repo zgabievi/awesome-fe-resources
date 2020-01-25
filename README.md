@@ -19,6 +19,9 @@ List of resources that are well documented, well tested, flexible for many proje
 [<img src="https://2018.stateofjs.com/images/favicon.png" width="32" height="32" alt="The State of JavaScript">](https://stateofjs.com)
 [<img src="https://2019.stateofcss.com/images/favicon.png" width="32" height="32" alt="The State of CSS">](https://stateofcss.com)
 [<img src="https://javascript30.com/images/favion-JS3.png" width="32" height="32" alt="JavaScript 30">](https://javascript30.com)
+[<img src="https://serviceworkies.com/favicon.ico" width="32" height="32" alt="Service Workies">](https://serviceworkies.com)
+[<img src="https://gridcritters.com/img/starfox.png" width="32" height="32" alt="Grid Critters">](https://gridcritters.com)
+[<img src="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:32,height:32/https://www.filepicker.io/api/file/aChns00QHmW1uFPugDx1" width="32" height="32" alt="Flexbox Zombies">](https://flexboxzombies.com)
 
 ## Table of Contents
 - [Essentials](#essentials)
@@ -69,3 +72,7 @@ List of resources that are well documented, well tested, flexible for many proje
 - [State of JS](https://stateofjs.com) - JavaScript is always changing. New libraries, new frameworks, new languages… It's part of the fun, but it can also feel overwhelming sometimes. That's where the State of JavaScript survey comes in: this year, we surveyed over 20,000 JavaScript developers to figure out what they're using, what they're happy with, and what they want to learn. And the result is a unique collection of stats and insights that will hopefully help you make your own way through the JavaScript ecosystem.
 - [State of CSS](https://stateofcss.com) - In the web development family, JavaScript has developed a bit of a reputation as the angry, rebellious teenager going through a new phase every year and telling you you're just too old to understand. CSS on the other hand has always been the studious, well-behaved kid who always stays polite and never makes a rash decision. But don't take things for granted: despite being over 20 years old, there's signs that CSS might be going through the same tumultuous teenage years that JavaScript just went through. Flexbox! Grid! CSS-in-JS! In 2019, CSS is finally dyeing its hair pink and getting a tattoo just like it's always secretly wanted. Parenting books won't help much with this one, but that's where we come in: we've surveyed over 10,000 developers in this first ever State of CSS survey. So join us to find out which CSS features are used the most, which tools are gaining adoption, and much more.
 - [JavaScript 30](https://javascript30.com) - Build 30 things with vanilla JS in 30 days with 30 tutorials
+- [Service Workies](https://serviceworkies.com) - Learn Service Workers inside and out with the new game of Service Worker mastery. A collaborative project by [geddski](https://gedd.ski) &  [Google Developers](https://web.dev)
+- [Grid Critters](https://gridcritters.com) - Completely learn CSS Grid once and for all by playing Grid Critters: the game of Grid mastery. Your journey begins on the mysterious planet Grideros. Your mission is to use your ship's powerful Grid tool to save alien critters from extinction.
+- [Flexbox Zombies](https://flexboxzombies.com) - This is an Educational Game. Each section unravels part of the plot, gives you expertise over a new flexbox concept, and presents zombie survival challenges that force you to solidify your new skills like your life depends on it.
+
