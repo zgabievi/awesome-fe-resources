@@ -27,6 +27,7 @@ List of resources that are well documented, well tested, flexible for many proje
 [<img src="https://mjml.io/favicon.ico" width="32" height="32" alt="MJML">](https://mjml.io)
 [<img src="https://shopify.github.io/draggable/assets/img/favicons/favicon-32x32.png" width="32" height="32" alt="Draggable JS">](https://shopify.github.io/draggable/)
 [<img src="https://editorjs.io/favicon.png" width="32" height="32" alt="Editor.js">](https://editorjs.io)
+[<img src="https://tornis.robbowen.digital/favicon-32x32.png" width="32" height="32" alt="Tornis">](https://tornis.robbowen.digital)
 
 ## Table of Contents
 - [Essentials](#essentials)
@@ -88,6 +89,7 @@ List of resources that are well documented, well tested, flexible for many proje
 - [spacetime](http://spacetime.how) - A lightweight javascript timezone library
 - [Headroom.js](https://wicky.nillia.ms/headroom.js/) - Give your pages some headroom. Hide your header until you need it.
 - [Spotlight.js](https://nextapps-de.github.io/spotlight/) - Web's most easy to integrate lightbox gallery library. Super-lightweight, outstanding performance, no dependencies.
+- [Tornis](https://tornis.robbowen.digital) - Taking its name from the forest watchtowers of Latvia, Tornis is a minimal JavaScript library that watches the state of your browser's viewport, allowing you to respond whenever something changes. Think of Tornis as a store for your viewport.
 
 #### JS Testing
 - [Mirage JS](https://miragejs.com) - Mirage JS is an API mocking library that lets you build, test and share a complete working JavaScript application without having to rely on any backend services.
