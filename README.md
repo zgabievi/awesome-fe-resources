@@ -1,4 +1,6 @@
 # Awesome FE Resources
+List of resources that are well documented, well tested, flexible for many projects and/or reusable. Here you will find frameworks, libraries, helpers, online resources and etc. Feel free to add anything you think it's worth being in this list. 
+
 [<img src="https://inertiajs.com/static/favicon.ico" width="32" height="32" alt="Inertia.js">](https://inertiajs.com)
 [<img src="https://tailwindcss.com/favicon-32x32.png" width="32" height="32" alt="Tailwind CSS">](https://tailwindcss.com)
 [<img src="https://miragejs.com/icons/icon-48x48.png" width="32" height="32" alt="Mirage JS">](https://miragejs.com)
