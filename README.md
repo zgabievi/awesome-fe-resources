@@ -24,7 +24,7 @@
     - [WYSIWYG](#wysiwyg)
   - [Testing](#js-testing)
 - [Optimization](#optimization)
-- [Resources](#resources)
+- [ONLINE Resources](#online-resources)
 
 ### Essentials
 - [Inertia.js](https://inertiajs.com) - Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps using classic server-side routing and controllers.
@@ -55,5 +55,5 @@
 ### Optimization
 - [SVGOMG](https://jakearchibald.github.io/svgomg/) - SVG Optimizer is a Nodejs-based tool for optimizing SVG vector graphics files. SVGOMG is SVGO's Missing GUI.
 
-### Resources
+### ONLINE Resources
 - [Vanilla List](https://vanillalist.top) - The Vanilla JavaScript Repository. Coz' sometimes you feel guilty for using jQuery.
