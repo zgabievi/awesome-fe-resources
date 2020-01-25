@@ -32,6 +32,7 @@ List of resources that are well documented, well tested, flexible for many proje
 [<img src="https://www.cypress.io/icons/icon-48x48.png" width="32" height="32" alt="Cypress">](https://www.cypress.io)
 [<img src="https://jestjs.io/img/favicon/favicon.ico" width="32" height="32" alt="Jest">](https://jestjs.io)
 [<img src="https://javascript.info/img/favicon/favicon.png" width="32" height="32" alt="javascript.info">](https://javascript.info)
+[<img src="https://uppy.io/images/logos/uppy-dog-head-arrow.png" width="32" height="32" alt="Uppy">](https://uppy.io)
 
 ## Table of Contents
 - [Essentials](#essentials)
@@ -71,6 +72,7 @@ List of resources that are well documented, well tested, flexible for many proje
 ##### JS File Uploaders
 - [Dropzone.js](https://www.dropzonejs.com) - DropzoneJS is an open source library that provides drag’n’drop file uploads with image previews.
 - [FilePond](https://pqina.nl/filepond/) - A JavaScript library that can upload anything you throw at it, optimizes images for faster uploads, and offers a great, accessible, silky smooth user experience.
+- [Uppy](https://uppy.io) - Sleek, modular open source JavaScript file uploader. Uppy fetches files locally and from remote places like Dropbox or Instagram. With its seamless integration, reliability and ease of use, Uppy is truly your best friend in file uploading.
 
 ##### WYSIWYG
 - [tiptap](https://tiptap.scrumpy.io) - This editor is based on Prosemirror, fully extendable and renderless. You can easily add custom nodes as Vue components.
