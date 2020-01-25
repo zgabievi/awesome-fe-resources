@@ -28,6 +28,7 @@ List of resources that are well documented, well tested, flexible for many proje
 [<img src="https://shopify.github.io/draggable/assets/img/favicons/favicon-32x32.png" width="32" height="32" alt="Draggable JS">](https://shopify.github.io/draggable/)
 [<img src="https://editorjs.io/favicon.png" width="32" height="32" alt="Editor.js">](https://editorjs.io)
 [<img src="https://tornis.robbowen.digital/favicon-32x32.png" width="32" height="32" alt="Tornis">](https://tornis.robbowen.digital)
+[<img src="https://glidejs.com/favicon.ico" width="32" height="32" alt="Glide.js">](https://glidejs.com)
 
 ## Table of Contents
 - [Essentials](#essentials)
@@ -41,6 +42,7 @@ List of resources that are well documented, well tested, flexible for many proje
     - [JS Motion](#js-motion)
     - [JS Forms](#js-forms)
     - [JS Layout](#js-layout)
+    - [JS Carousels](#js-carousels)
     - [JS Misc](#js-misc)
   - [Testing](#js-testing)
 - [Optimization](#optimization)
@@ -82,6 +84,9 @@ List of resources that are well documented, well tested, flexible for many proje
 
 ##### JS Layout
 - [Muuri](https://haltu.github.io/muuri/) - Muuri is a JavaScript layout engine that allows you to build all kinds of layouts and make them responsive, sortable, filterable, draggable and/or animated. Comparing to what's out there Muuri is a combination of [Packery](http://packery.metafizzy.co/), [Masonry](http://masonry.desandro.com/), [Isotope](http://isotope.metafizzy.co/) and [Sortable](https://github.com/RubaXa/Sortable).
+
+##### JS Carousels
+- [Glide.js](https://glidejs.com) - A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more
 
 ##### JS Misc
 - [localForage](https://localforage.github.io/localForage/) - localForage is a JavaScript library that improves the offline experience of your web app by using an asynchronous data store with a simple, localStorage-like API. It allows developers to [store many types of data](https://localforage.github.io/localForage/#data-api-setitem) instead of just strings.
