@@ -29,6 +29,8 @@ List of resources that are well documented, well tested, flexible for many proje
 [<img src="https://editorjs.io/favicon.png" width="32" height="32" alt="Editor.js">](https://editorjs.io)
 [<img src="https://tornis.robbowen.digital/favicon-32x32.png" width="32" height="32" alt="Tornis">](https://tornis.robbowen.digital)
 [<img src="https://glidejs.com/favicon.ico" width="32" height="32" alt="Glide.js">](https://glidejs.com)
+[<img src="https://www.cypress.io/icons/icon-48x48.png" width="32" height="32" alt="Cypress">](https://www.cypress.io)
+[<img src="https://jestjs.io/img/favicon/favicon.ico" width="32" height="32" alt="Jest">](https://jestjs.io)
 
 ## Table of Contents
 - [Essentials](#essentials)
