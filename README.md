@@ -11,6 +11,7 @@
 [<img src="https://angular.io/assets/images/favicons/favicon-32x32.png" width="32" height="32" alt="Angular">](https://angular.io)
 [<img src="https://tiptap.scrumpy.io/assets/images/favicon.ico" width="32" height="32" alt="tiptap">](https://tiptap.scrumpy.io)
 [<img src="https://quilljs.com/assets/images/favicon.ico" width="32" height="32" alt="Quill">](https://quilljs.com)
+[<img src="https://vanillalist.top/assets/favicons/favicon-32x32-4367987f1376d96d93a7da0e13d1a1d91a2cb3f6b43a43283c6015cd412a5e02.png" width="32" height="32" alt="Vanilla List">](https://vanillalist.top)
 
 ## Table of Contents
 - [Essentials](#essentials)
