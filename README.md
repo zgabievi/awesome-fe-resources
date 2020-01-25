@@ -10,6 +10,7 @@
 [<img src="https://vuejs.org/images/icons/favicon-32x32.png" width="32" height="32" alt="Vue.js">](https://vuejs.org)
 [<img src="https://angular.io/assets/images/favicons/favicon-32x32.png" width="32" height="32" alt="Angular">](https://angular.io)
 [<img src="https://tiptap.scrumpy.io/assets/images/favicon.ico" width="32" height="32" alt="tiptap">](https://tiptap.scrumpy.io)
+[<img src="https://quilljs.com/assets/images/favicon.ico" width="32" height="32" alt="Quill">](https://quilljs.com)
 
 ## Table of Contents
 - [Essentials](#essentials)
@@ -45,6 +46,7 @@
 
 ##### WYSIWYG
 - [tiptap](https://tiptap.scrumpy.io) - This editor is based on Prosemirror, fully extendable and renderless. You can easily add custom nodes as Vue components.
+- [Quill](https://quilljs.com) - Your powerful rich text editor.
 
 #### JS Testing
 - [Mirage JS](https://miragejs.com) - Mirage JS is an API mocking library that lets you build, test and share a complete working JavaScript application without having to rely on any backend services.
