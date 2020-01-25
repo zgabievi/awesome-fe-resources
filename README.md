@@ -1,4 +1,4 @@
-# awesome-fe-resources
+# Awesome FE Resources
 Awesome resources, mostly frontend stuff
 
 ## Table of Contents
