@@ -98,6 +98,7 @@ List of resources that are well documented, well tested, flexible for many proje
 
 #### JS Testing
 - [Mirage JS](https://miragejs.com) - Mirage JS is an API mocking library that lets you build, test and share a complete working JavaScript application without having to rely on any backend services.
+- [Jest](https://jestjs.io/) - Delightful JavaScript Testing Framework by Facebook. It works with projects using: Babel, TypeScript, Node, React, Angular, Vue and more.
 
 ### Optimization
 - [SVGOMG](https://jakearchibald.github.io/svgomg/) - SVG Optimizer is a Nodejs-based tool for optimizing SVG vector graphics files. SVGOMG is SVGO's Missing GUI.
