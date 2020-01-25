@@ -24,6 +24,7 @@ List of resources that are well documented, well tested, flexible for many proje
 [<img src="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:32,height:32/https://www.filepicker.io/api/file/aChns00QHmW1uFPugDx1" width="32" height="32" alt="Flexbox Zombies">](https://flexboxzombies.com)
 [<img src="https://animejs.com/documentation/assets/img/favicon.png" width="32" height="32" alt="anime.js">](https://animejs.com)
 [<img src="https://mciastek.github.io/sal/website/images/favicon-32x32.png" width="32" height="32" alt="Sal">](https://mciastek.github.io/sal/)
+[<img src="https://mjml.io/favicon.ico" width="32" height="32" alt="MJML">](https://mjml.io)
 
 ## Table of Contents
 - [Essentials](#essentials)
@@ -40,6 +41,7 @@ List of resources that are well documented, well tested, flexible for many proje
     - [JS Misc](#js-misc)
   - [Testing](#js-testing)
 - [Optimization](#optimization)
+- [Tools](#tools)
 - [ONLINE Resources](#online-resources)
 
 ### Essentials
@@ -85,6 +87,9 @@ List of resources that are well documented, well tested, flexible for many proje
 ### Optimization
 - [SVGOMG](https://jakearchibald.github.io/svgomg/) - SVG Optimizer is a Nodejs-based tool for optimizing SVG vector graphics files. SVGOMG is SVGO's Missing GUI.
 - [web.dev](https://web.dev) - Get the web's modern capabilities on your own sites and apps with useful guidance and analysis from web.dev.
+
+### Tools
+- [MJML](https://mjml.io) - MJML is a markup language designed to reduce the pain of coding a responsive email. Its semantic syntax makes it easy and straightforward and its rich standard components library speeds up your development time and lightens your email codebase. MJML’s open-source engine generates high quality responsive HTML compliant with best practices.
 
 ### ONLINE Resources
 - [Vanilla List](https://vanillalist.top) - The Vanilla JavaScript Repository. Coz' sometimes you feel guilty for using jQuery.
