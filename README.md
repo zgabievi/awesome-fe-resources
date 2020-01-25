@@ -84,7 +84,8 @@ List of resources that are well documented, well tested, flexible for many proje
 
 ##### JS Misc
 - [localForage](https://localforage.github.io/localForage/) - localForage is a JavaScript library that improves the offline experience of your web app by using an asynchronous data store with a simple, localStorage-like API. It allows developers to [store many types of data](https://localforage.github.io/localForage/#data-api-setitem) instead of just strings.
-- [Overlay Scrollbars](https://kingsora.github.io/OverlayScrollbars/) - A javascript scrollbar plugin which hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling. 
+- [Overlay Scrollbars](https://kingsora.github.io/OverlayScrollbars/) - A javascript scrollbar plugin which hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling.
+- [spacetime](http://spacetime.how) - A lightweight javascript timezone library
 
 #### JS Testing
 - [Mirage JS](https://miragejs.com) - Mirage JS is an API mocking library that lets you build, test and share a complete working JavaScript application without having to rely on any backend services.
