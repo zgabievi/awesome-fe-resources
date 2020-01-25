@@ -36,6 +36,7 @@ List of resources that are well documented, well tested, flexible for many proje
     - [WYSIWYG](#wysiwyg)
     - [JS Motion](#js-motion)
     - [JS Forms](#js-forms)
+    - [JS Layout](#js-layout)
   - [Testing](#js-testing)
 - [Optimization](#optimization)
 - [ONLINE Resources](#online-resources)
@@ -70,6 +71,9 @@ List of resources that are well documented, well tested, flexible for many proje
 
 ##### JS Forms
 - [Cleave.js](https://nosir.github.io/cleave.js/) - Format your <input/> content when you are typing
+
+##### JS Layout
+- [Muuri](https://haltu.github.io/muuri/) - Muuri is a JavaScript layout engine that allows you to build all kinds of layouts and make them responsive, sortable, filterable, draggable and/or animated. Comparing to what's out there Muuri is a combination of [Packery](http://packery.metafizzy.co/), [Masonry](http://masonry.desandro.com/), [Isotope](http://isotope.metafizzy.co/) and [Sortable](https://github.com/RubaXa/Sortable).
 
 #### JS Testing
 - [Mirage JS](https://miragejs.com) - Mirage JS is an API mocking library that lets you build, test and share a complete working JavaScript application without having to rely on any backend services.
