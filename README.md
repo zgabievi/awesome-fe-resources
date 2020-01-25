@@ -26,6 +26,7 @@ List of resources that are well documented, well tested, flexible for many proje
 [<img src="https://mciastek.github.io/sal/website/images/favicon-32x32.png" width="32" height="32" alt="Sal">](https://mciastek.github.io/sal/)
 [<img src="https://mjml.io/favicon.ico" width="32" height="32" alt="MJML">](https://mjml.io)
 [<img src="https://shopify.github.io/draggable/assets/img/favicons/favicon-32x32.png" width="32" height="32" alt="Draggable JS">](https://shopify.github.io/draggable/)
+[<img src="https://editorjs.io/favicon.png" width="32" height="32" alt="Editor.js">](https://editorjs.io)
 
 ## Table of Contents
 - [Essentials](#essentials)
@@ -68,6 +69,7 @@ List of resources that are well documented, well tested, flexible for many proje
 ##### WYSIWYG
 - [tiptap](https://tiptap.scrumpy.io) - This editor is based on Prosemirror, fully extendable and renderless. You can easily add custom nodes as Vue components.
 - [Quill](https://quilljs.com) - Your powerful rich text editor.
+- [Editor.js](https://editorjs.io/) - Next generation block styled editor. Free. Use for pleasure.
 
 ##### JS Motion
 - [anime.js](https://animejs.com) - Anime.js is a lightweight JavaScript animation library with a simple, yet powerful API. It works with CSS properties, SVG, DOM attributes and JavaScript Objects.
