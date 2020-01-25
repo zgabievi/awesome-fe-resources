@@ -13,6 +13,7 @@
 - [JavaScript](#javascript)
   - [JS Frameworks](#js-frameworks)
   - [JS Libraries](#js-libraries)
+    - [JS File Uploaders](#js-file-uploaders)
   - [Testing](#js-testing)
 - [Optimization](#optimization)
 - [Testing](#testing)
@@ -29,6 +30,7 @@
 - []()
 
 #### JS Libraries
+##### JS File Uploaders
 - [Dropzone.js](https://www.dropzonejs.com) - DropzoneJS is an open source library that provides drag’n’drop file uploads with image previews.
 - [FilePond](https://pqina.nl/filepond/) - A JavaScript library that can upload anything you throw at it, optimizes images for faster uploads, and offers a great, accessible, silky smooth user experience.
 
