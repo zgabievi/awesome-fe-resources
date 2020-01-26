@@ -1,7 +1,7 @@
 # Awesome FE Resources
 List of resources that are well documented, well tested, flexible for many projects and/or reusable. Here you will find frameworks, libraries, helpers, online resources and etc. Feel free to add anything you think it's worth being in this list.
 
-Most of the libraries are for vanilla, but there are som beautiful framework specific libraries too. They will be badged like: `React`, `Vue.js`, `Svelte` or `Angular`. If there is no badge, it means that library is vanilla and can be used anywhere.
+Most of the libraries are for vanilla, but there are som beautiful framework specific libraries too. They will be badged like: **React**, **Vue.js**, **Svelte** or **Angular**. If there is no badge, it means that library is vanilla and can be used anywhere.
 
 [<img src="https://inertiajs.com/static/favicon.ico" width="32" height="32" alt="Inertia.js">](https://inertiajs.com)
 [<img src="https://tailwindcss.com/favicon-32x32.png" width="32" height="32" alt="Tailwind CSS">](https://tailwindcss.com)
@@ -83,7 +83,7 @@ Most of the libraries are for vanilla, but there are som beautiful framework spe
 - [Uppy](https://uppy.io) - Sleek, modular open source JavaScript file uploader. Uppy fetches files locally and from remote places like Dropbox or Instagram. With its seamless integration, reliability and ease of use, Uppy is truly your best friend in file uploading.
 
 ##### WYSIWYG
-- [tiptap](https://tiptap.scrumpy.io) `Vue.js` - This editor is based on Prosemirror, fully extendable and renderless. You can easily add custom nodes as Vue components.
+- [tiptap](https://tiptap.scrumpy.io) <sup>**Vue.js**</sup> - This editor is based on Prosemirror, fully extendable and renderless. You can easily add custom nodes as Vue components.
 - [Quill](https://quilljs.com) - Your powerful rich text editor.
 - [Editor.js](https://editorjs.io/) - Next generation block styled editor. Free. Use for pleasure.
 
@@ -94,7 +94,7 @@ Most of the libraries are for vanilla, but there are som beautiful framework spe
 
 ##### JS Forms
 - [Cleave.js](https://nosir.github.io/cleave.js/) - Format your <input/> content when you are typing
-- [Formik](https://jaredpalmer.com/formik) `React` - Let's face it, forms are really verbose in React. To make matters worse, most form helpers do wayyyy too much magic and often have a significant performance cost associated with them.
+- [Formik](https://jaredpalmer.com/formik) <sup>**React**</sup> - Let's face it, forms are really verbose in React. To make matters worse, most form helpers do wayyyy too much magic and often have a significant performance cost associated with them.
 
 ##### JS Layout
 - [Muuri](https://haltu.github.io/muuri/) - Muuri is a JavaScript layout engine that allows you to build all kinds of layouts and make them responsive, sortable, filterable, draggable and/or animated. Comparing to what's out there Muuri is a combination of [Packery](http://packery.metafizzy.co/), [Masonry](http://masonry.desandro.com/), [Isotope](http://isotope.metafizzy.co/) and [Sortable](https://github.com/RubaXa/Sortable).
