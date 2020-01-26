@@ -110,6 +110,7 @@ List of resources that are well documented, well tested, flexible for many proje
 - [mark.js](https://markjs.io) - mark.js is a text highlighter written in JavaScript. It can be used to dynamically mark search terms or custom regular expressions and offers you built-in options like diacritics support, separate word search, custom synonyms, iframes support, custom filters, accuracy definition, custom element, custom class name and more.
 - [Chart.js](https://www.chartjs.org) - Simple yet flexible JavaScript charting for designers & developers
 - [Croppie](http://foliotek.github.io/Croppie/) - Croppie is a fast, easy to use image cropping plugin with tons of configuration options!
+- [Rellax](https://dixonandmoe.com/rellax/) - Rellax is a buttery smooth, super lightweight, vanilla javascript parallax library.
 
 #### JS Testing
 - [Mirage JS](https://miragejs.com) - Mirage JS is an API mocking library that lets you build, test and share a complete working JavaScript application without having to rely on any backend services.
