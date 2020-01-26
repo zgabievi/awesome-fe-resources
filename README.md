@@ -37,6 +37,7 @@ List of resources that are well documented, well tested, flexible for many proje
 [<img src="https://pawelgrzybek.github.io/siema/assets/favicon-32x32.png" width="32" height="32" alt="Siema">](https://pawelgrzybek.github.io/siema/)
 [<img src="https://www.chartjs.org/favicon.ico" width="32" height="32" alt="Chart.js">](https://www.chartjs.org)
 [<img src="https://flickity.metafizzy.co/favicon.ico" width="32" height="32" alt="Flickity">](https://flickity.metafizzy.co)
+[<img src="http://foliotek.github.io/favico-64.png" width="32" height="32" alt="Croppie">](http://foliotek.github.io/Croppie/)
 
 ## Table of Contents
 - [Essentials](#essentials)
@@ -108,6 +109,7 @@ List of resources that are well documented, well tested, flexible for many proje
 - [Tornis](https://tornis.robbowen.digital) - Taking its name from the forest watchtowers of Latvia, Tornis is a minimal JavaScript library that watches the state of your browser's viewport, allowing you to respond whenever something changes. Think of Tornis as a store for your viewport.
 - [mark.js](https://markjs.io) - mark.js is a text highlighter written in JavaScript. It can be used to dynamically mark search terms or custom regular expressions and offers you built-in options like diacritics support, separate word search, custom synonyms, iframes support, custom filters, accuracy definition, custom element, custom class name and more.
 - [Chart.js](https://www.chartjs.org) - Simple yet flexible JavaScript charting for designers & developers
+- [Croppie](http://foliotek.github.io/Croppie/) - Croppie is a fast, easy to use image cropping plugin with tons of configuration options!
 
 #### JS Testing
 - [Mirage JS](https://miragejs.com) - Mirage JS is an API mocking library that lets you build, test and share a complete working JavaScript application without having to rely on any backend services.
