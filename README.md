@@ -38,6 +38,7 @@ List of resources that are well documented, well tested, flexible for many proje
 [<img src="https://www.chartjs.org/favicon.ico" width="32" height="32" alt="Chart.js">](https://www.chartjs.org)
 [<img src="https://flickity.metafizzy.co/favicon.ico" width="32" height="32" alt="Flickity">](https://flickity.metafizzy.co)
 [<img src="http://foliotek.github.io/favico-64.png" width="32" height="32" alt="Croppie">](http://foliotek.github.io/Croppie/)
+[<img src="https://jaredpalmer.com/formik/img/favicon.png" width="32" height="32" alt="Formik">](https://jaredpalmer.com/formik/)
 
 ## Table of Contents
 - [Essentials](#essentials)
@@ -91,6 +92,7 @@ List of resources that are well documented, well tested, flexible for many proje
 
 ##### JS Forms
 - [Cleave.js](https://nosir.github.io/cleave.js/) - Format your <input/> content when you are typing
+- [Formik](https://jaredpalmer.com/formik) - Let's face it, forms are really verbose in React. To make matters worse, most form helpers do wayyyy too much magic and often have a significant performance cost associated with them.
 
 ##### JS Layout
 - [Muuri](https://haltu.github.io/muuri/) - Muuri is a JavaScript layout engine that allows you to build all kinds of layouts and make them responsive, sortable, filterable, draggable and/or animated. Comparing to what's out there Muuri is a combination of [Packery](http://packery.metafizzy.co/), [Masonry](http://masonry.desandro.com/), [Isotope](http://isotope.metafizzy.co/) and [Sortable](https://github.com/RubaXa/Sortable).
