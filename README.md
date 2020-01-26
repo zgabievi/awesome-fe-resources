@@ -35,6 +35,7 @@ List of resources that are well documented, well tested, flexible for many proje
 [<img src="https://uppy.io/images/logos/uppy-dog-head-arrow.png" width="32" height="32" alt="Uppy">](https://uppy.io)
 [<img src="https://markjs.io/assets/images/favicons/favicon-32x32.png" width="32" height="32" alt="mark.js">](https://markjs.io)
 [<img src="https://pawelgrzybek.github.io/siema/assets/favicon-32x32.png" width="32" height="32" alt="Siema">](https://pawelgrzybek.github.io/siema/)
+[<img src="https://www.chartjs.org/favicon.ico" width="32" height="32" alt="Chart.js">](https://www.chartjs.org)
 
 ## Table of Contents
 - [Essentials](#essentials)
@@ -104,6 +105,7 @@ List of resources that are well documented, well tested, flexible for many proje
 - [Spotlight.js](https://nextapps-de.github.io/spotlight/) - Web's most easy to integrate lightbox gallery library. Super-lightweight, outstanding performance, no dependencies.
 - [Tornis](https://tornis.robbowen.digital) - Taking its name from the forest watchtowers of Latvia, Tornis is a minimal JavaScript library that watches the state of your browser's viewport, allowing you to respond whenever something changes. Think of Tornis as a store for your viewport.
 - [mark.js](https://markjs.io) - mark.js is a text highlighter written in JavaScript. It can be used to dynamically mark search terms or custom regular expressions and offers you built-in options like diacritics support, separate word search, custom synonyms, iframes support, custom filters, accuracy definition, custom element, custom class name and more.
+- [Chart.js](https://www.chartjs.org) - Simple yet flexible JavaScript charting for designers & developers
 
 #### JS Testing
 - [Mirage JS](https://miragejs.com) - Mirage JS is an API mocking library that lets you build, test and share a complete working JavaScript application without having to rely on any backend services.
