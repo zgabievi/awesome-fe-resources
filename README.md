@@ -34,6 +34,7 @@ List of resources that are well documented, well tested, flexible for many proje
 [<img src="https://javascript.info/img/favicon/favicon.png" width="32" height="32" alt="javascript.info">](https://javascript.info)
 [<img src="https://uppy.io/images/logos/uppy-dog-head-arrow.png" width="32" height="32" alt="Uppy">](https://uppy.io)
 [<img src="https://markjs.io/assets/images/favicons/favicon-32x32.png" width="32" height="32" alt="mark.js">](https://markjs.io)
+[<img src="https://pawelgrzybek.github.io/siema/assets/favicon-32x32.png" width="32" height="32" alt="Siema">](https://pawelgrzybek.github.io/siema/)
 
 ## Table of Contents
 - [Essentials](#essentials)
@@ -93,6 +94,7 @@ List of resources that are well documented, well tested, flexible for many proje
 
 ##### JS Carousels
 - [Glide.js](https://glidejs.com) - A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more
+- [Siema](https://pawelgrzybek.github.io/siema/) - Siema is a lightweight (only 3kb gzipped) carousel plugin with no dependencies and no styling. As Brad Frost once said "do that shit yourself". It is 100% open source and available on Github. It is free to use on personal and commercial projects. Use it with your favourite module bundler or by manually injecting the script into your project.
 
 ##### JS Misc
 - [localForage](https://localforage.github.io/localForage/) - localForage is a JavaScript library that improves the offline experience of your web app by using an asynchronous data store with a simple, localStorage-like API. It allows developers to [store many types of data](https://localforage.github.io/localForage/#data-api-setitem) instead of just strings.
