@@ -41,6 +41,7 @@ Most of the libraries are for vanilla, but there are som beautiful framework spe
 [<img src="https://flickity.metafizzy.co/favicon.ico" width="32" height="32" alt="Flickity">](https://flickity.metafizzy.co)
 [<img src="http://foliotek.github.io/favico-64.png" width="32" height="32" alt="Croppie">](http://foliotek.github.io/Croppie/)
 [<img src="https://jaredpalmer.com/formik/img/favicon.png" width="32" height="32" alt="Formik">](https://jaredpalmer.com/formik/)
+[<img src="https://docs.sentry.io/assets/favicon-9d9dbcc614d52b0e88787b03b400b5bf6c6467d6837a19d394f9e8b8d98bee4b.ico" width="32" height="32" alt="Sentry">](https://sentry.io)
 
 ## Table of Contents
 - [Essentials](#essentials)
@@ -129,6 +130,7 @@ Most of the libraries are for vanilla, but there are som beautiful framework spe
 
 ### Tools
 - [MJML](https://mjml.io) - MJML is a markup language designed to reduce the pain of coding a responsive email. Its semantic syntax makes it easy and straightforward and its rich standard components library speeds up your development time and lightens your email codebase. MJML’s open-source engine generates high quality responsive HTML compliant with best practices.
+- [Sentry](https://sentry.io) - Sentry is an open-source company, providing an application monitoring platform that helps you identify issues in real-time. Here we cover everything about the product, the platform integrations, and self-hosted Sentry.
 
 ### ONLINE Resources
 - [javascript.info](https://javascript.info/) - The Modern JavaScript Tutorial. From the basics to advanced topics with simple, but detailed explanations.
