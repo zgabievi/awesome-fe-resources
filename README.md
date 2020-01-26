@@ -111,6 +111,7 @@ List of resources that are well documented, well tested, flexible for many proje
 - [Chart.js](https://www.chartjs.org) - Simple yet flexible JavaScript charting for designers & developers
 - [Croppie](http://foliotek.github.io/Croppie/) - Croppie is a fast, easy to use image cropping plugin with tons of configuration options!
 - [Rellax](https://dixonandmoe.com/rellax/) - Rellax is a buttery smooth, super lightweight, vanilla javascript parallax library.
+- [PhotoSwipe](https://photoswipe.com) - JavaScript image gallery for mobile and desktop.
 
 #### JS Testing
 - [Mirage JS](https://miragejs.com) - Mirage JS is an API mocking library that lets you build, test and share a complete working JavaScript application without having to rely on any backend services.
