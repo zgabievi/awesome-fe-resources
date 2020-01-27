@@ -44,7 +44,7 @@ Most of the libraries are for vanilla, but there are som beautiful framework spe
 [<img src="https://docs.sentry.io/assets/favicon-9d9dbcc614d52b0e88787b03b400b5bf6c6467d6837a19d394f9e8b8d98bee4b.ico" width="32" height="32" alt="Sentry">](https://sentry.io)
 
 ## Table of Contents
-- [Essentials](#essentials)
+- [Favorites](#favorites)
 - [CSS](#css)
   - [CSS Frameworks](#css-frameworks)
 - [JavaScript](#javascript)
@@ -62,7 +62,7 @@ Most of the libraries are for vanilla, but there are som beautiful framework spe
 - [Tools](#tools)
 - [ONLINE Resources](#online-resources)
 
-### Essentials
+### Favorites
 - [Inertia.js](https://inertiajs.com) - Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps using classic server-side routing and controllers.
 
 ### CSS
