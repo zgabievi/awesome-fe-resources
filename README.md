@@ -141,4 +141,5 @@ Most of the libraries are for vanilla, but there are som beautiful framework spe
 - [Service Workies](https://serviceworkies.com) - Learn Service Workers inside and out with the new game of Service Worker mastery. A collaborative project by [geddski](https://gedd.ski) &  [Google Developers](https://web.dev)
 - [Grid Critters](https://gridcritters.com) - Completely learn CSS Grid once and for all by playing Grid Critters: the game of Grid mastery. Your journey begins on the mysterious planet Grideros. Your mission is to use your ship's powerful Grid tool to save alien critters from extinction.
 - [Flexbox Zombies](https://flexboxzombies.com) - This is an Educational Game. Each section unravels part of the plot, gives you expertise over a new flexbox concept, and presents zombie survival challenges that force you to solidify your new skills like your life depends on it.
+- [Tiny Helpers](https://tiny-helpers.dev/) - A collection of free single-purpose online tools for web developers.
 
