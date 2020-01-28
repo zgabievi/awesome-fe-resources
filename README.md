@@ -42,6 +42,7 @@ Most of the libraries are for vanilla, but there are som beautiful framework spe
 [<img src="http://foliotek.github.io/favico-64.png" width="32" height="32" alt="Croppie">](http://foliotek.github.io/Croppie/)
 [<img src="https://jaredpalmer.com/formik/img/favicon.png" width="32" height="32" alt="Formik">](https://jaredpalmer.com/formik/)
 [<img src="https://docs.sentry.io/assets/favicon-9d9dbcc614d52b0e88787b03b400b5bf6c6467d6837a19d394f9e8b8d98bee4b.ico" width="32" height="32" alt="Sentry">](https://sentry.io)
+[<img src="https://tiny-helpers.dev/favicon-32x32.png" width="32" height="32" alt="Tiny Helpers">](https://tiny-helpers.dev)
 
 ## Table of Contents
 - [Favorites](#favorites)
