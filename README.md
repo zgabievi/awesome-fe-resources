@@ -42,6 +42,7 @@ Most of the libraries are for vanilla, but there are som beautiful framework spe
 [<img src="https://jaredpalmer.com/formik/img/favicon.png" width="32" height="32" alt="Formik">](https://jaredpalmer.com/formik/)
 [<img src="https://docs.sentry.io/assets/favicon-9d9dbcc614d52b0e88787b03b400b5bf6c6467d6837a19d394f9e8b8d98bee4b.ico" width="32" height="32" alt="Sentry">](https://sentry.io)
 [<img src="https://tiny-helpers.dev/favicon-32x32.png" width="32" height="32" alt="Tiny Helpers">](https://tiny-helpers.dev)
+[<img src="https://camo.githubusercontent.com/443b967f5d33b28c71ec09a87127aadafb28f577/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3334342f6a6176617363726970742e706e67" width="32" height="32" alt="JavaScript Questions">](https://github.com/lydiahallie/javascript-questions)
 
 ## Table of Contents
 - [Favorites](#favorites)
@@ -142,4 +143,5 @@ Most of the libraries are for vanilla, but there are som beautiful framework spe
 - [Grid Critters](https://gridcritters.com) - Completely learn CSS Grid once and for all by playing Grid Critters: the game of Grid mastery. Your journey begins on the mysterious planet Grideros. Your mission is to use your ship's powerful Grid tool to save alien critters from extinction.
 - [Flexbox Zombies](https://flexboxzombies.com) - This is an Educational Game. Each section unravels part of the plot, gives you expertise over a new flexbox concept, and presents zombie survival challenges that force you to solidify your new skills like your life depends on it.
 - [Tiny Helpers](https://tiny-helpers.dev/) - A collection of free single-purpose online tools for web developers.
+- [JavaScript Questions](https://github.com/lydiahallie/javascript-questions) - From basic to advanced: test how well you know JavaScript, refresh your knowledge a bit, or prepare for your coding interview!
 
