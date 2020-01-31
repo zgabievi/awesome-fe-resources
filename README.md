@@ -43,6 +43,7 @@ Most of the libraries are for vanilla, but there are som beautiful framework spe
 [<img src="https://docs.sentry.io/assets/favicon-9d9dbcc614d52b0e88787b03b400b5bf6c6467d6837a19d394f9e8b8d98bee4b.ico" width="32" height="32" alt="Sentry">](https://sentry.io)
 [<img src="https://tiny-helpers.dev/favicon-32x32.png" width="32" height="32" alt="Tiny Helpers">](https://tiny-helpers.dev)
 [<img src="https://camo.githubusercontent.com/443b967f5d33b28c71ec09a87127aadafb28f577/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3334342f6a6176617363726970742e706e67" width="32" height="32" alt="JavaScript Questions">](https://github.com/lydiahallie/javascript-questions)
+[<img src="https://www.pika.dev/static/img/pika-pack-logo.jpg" width="32" height="32" alt="@pika/pack">](https://www.pika.dev/blog/introducing-pika-pack/)
 
 ## Table of Contents
 - [Favorites](#favorites)
@@ -132,6 +133,7 @@ Most of the libraries are for vanilla, but there are som beautiful framework spe
 ### Tools
 - [MJML](https://mjml.io) - MJML is a markup language designed to reduce the pain of coding a responsive email. Its semantic syntax makes it easy and straightforward and its rich standard components library speeds up your development time and lightens your email codebase. MJML’s open-source engine generates high quality responsive HTML compliant with best practices.
 - [Sentry](https://sentry.io) - Sentry is an open-source company, providing an application monitoring platform that helps you identify issues in real-time. Here we cover everything about the product, the platform integrations, and self-hosted Sentry.
+- [@pika/pack](https://www.pika.dev/blog/introducing-pika-pack/) - @pika/pack connects pre-configured plugins to build and optimize your package for you. Plugins wrap already-popular tools like Babel and Rollup with options already optimized for npm. This lets @pika/pack build your package without much (if any) configuration required on your part.
 
 ### ONLINE Resources
 - [javascript.info](https://javascript.info/) - The Modern JavaScript Tutorial. From the basics to advanced topics with simple, but detailed explanations.
