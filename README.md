@@ -45,6 +45,7 @@ Most of the libraries are for vanilla, but there are som beautiful framework spe
 [<img src="https://camo.githubusercontent.com/443b967f5d33b28c71ec09a87127aadafb28f577/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3334342f6a6176617363726970742e706e67" width="32" height="32" alt="JavaScript Questions">](https://github.com/lydiahallie/javascript-questions)
 [<img src="https://www.pika.dev/static/img/pika-pack-logo.jpg" width="32" height="32" alt="@pika/pack">](https://www.pika.dev/blog/introducing-pika-pack/)
 [<img src="https://howlerjs.com/assets/images/favicon.ico" width="32" height="32" alt="howler.js">](https://howlerjs.com)
+[<img src="https://videojs.com/favicon.ico" width="32" height="32" alt="Video.js">](https://videojs.com)
 
 ## Table of Contents
 - [Favorites](#favorites)
@@ -122,6 +123,7 @@ Most of the libraries are for vanilla, but there are som beautiful framework spe
 - [PhotoSwipe](https://photoswipe.com) - JavaScript image gallery for mobile and desktop.
 - [Drift](https://imgix.github.io/drift/) - This is Drift, a simple, lightweight, no-dependencies JavaScript "zoom on hover" tool from [imgix](http://imgix.com). Move your mouse over the image (or touch it) to see it in action.
 - [howler.js](https://howlerjs.com) - Audio library for the modern web. howler.js makes working with audio in JavaScript easy and reliable across all platforms.
+- [Video.js](https://videojs.com) - Make your player yours with the world's most popular open source HTML5 player framework
 
 #### JS Testing
 - [Mirage JS](https://miragejs.com) - Mirage JS is an API mocking library that lets you build, test and share a complete working JavaScript application without having to rely on any backend services.
