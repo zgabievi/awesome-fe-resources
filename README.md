@@ -46,6 +46,7 @@ Most of the libraries are for vanilla, but there are som beautiful framework spe
 [<img src="https://www.pika.dev/static/img/pika-pack-logo.jpg" width="32" height="32" alt="@pika/pack">](https://www.pika.dev/blog/introducing-pika-pack/)
 [<img src="https://howlerjs.com/assets/images/favicon.ico" width="32" height="32" alt="howler.js">](https://howlerjs.com)
 [<img src="https://videojs.com/favicon.ico" width="32" height="32" alt="Video.js">](https://videojs.com)
+[<img src="https://bundlephobia.com/favicon-32x32.png" width="32" height="32" alt="BundlePhobia">](https://bundlephobia.com)
 
 ## Table of Contents
 - [Favorites](#favorites)
@@ -124,6 +125,7 @@ Most of the libraries are for vanilla, but there are som beautiful framework spe
 - [Drift](https://imgix.github.io/drift/) - This is Drift, a simple, lightweight, no-dependencies JavaScript "zoom on hover" tool from [imgix](http://imgix.com). Move your mouse over the image (or touch it) to see it in action.
 - [howler.js](https://howlerjs.com) - Audio library for the modern web. howler.js makes working with audio in JavaScript easy and reliable across all platforms.
 - [Video.js](https://videojs.com) - Make your player yours with the world's most popular open source HTML5 player framework
+- [BundlePhobia](https://bundlephobia.com) - find the cost of adding a npm package to your bundle
 
 #### JS Testing
 - [Mirage JS](https://miragejs.com) - Mirage JS is an API mocking library that lets you build, test and share a complete working JavaScript application without having to rely on any backend services.
