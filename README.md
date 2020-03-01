@@ -47,6 +47,7 @@ Most of the libraries are for vanilla, but there are som beautiful framework spe
 [<img src="https://howlerjs.com/assets/images/favicon.ico" width="32" height="32" alt="howler.js">](https://howlerjs.com)
 [<img src="https://videojs.com/favicon.ico" width="32" height="32" alt="Video.js">](https://videojs.com)
 [<img src="https://bundlephobia.com/favicon-32x32.png" width="32" height="32" alt="BundlePhobia">](https://bundlephobia.com)
+[<img src="https://d1j8pt39hxlh3d.cloudfront.net/emoji/emojione/5.0/png/unicode/32/1f477-2642.png" width="32" height="32" alt="MockServiceWorker">](https://redd.gitbook.io/msw/)
 
 ## Table of Contents
 - [Favorites](#favorites)
@@ -131,6 +132,7 @@ Most of the libraries are for vanilla, but there are som beautiful framework spe
 - [Mirage JS](https://miragejs.com) - Mirage JS is an API mocking library that lets you build, test and share a complete working JavaScript application without having to rely on any backend services.
 - [Jest](https://jestjs.io/) - Delightful JavaScript Testing Framework by Facebook. It works with projects using: Babel, TypeScript, Node, React, Angular, Vue and more.
 - [Cypress](https://www.cypress.io/) - An open source, front-end E2E testing tool, built for the modern web.
+- [MockServiceWorker](https://redd.gitbook.io/msw/) - is an API mocking library that operates by intercepting production requests.
 
 ### Optimization
 - [SVGOMG](https://jakearchibald.github.io/svgomg/) - SVG Optimizer is a Nodejs-based tool for optimizing SVG vector graphics files. SVGOMG is SVGO's Missing GUI.
