@@ -48,6 +48,7 @@ Most of the libraries are for vanilla, but there are som beautiful framework spe
 [<img src="https://videojs.com/favicon.ico" width="32" height="32" alt="Video.js">](https://videojs.com)
 [<img src="https://bundlephobia.com/favicon-32x32.png" width="32" height="32" alt="BundlePhobia">](https://bundlephobia.com)
 [<img src="https://d1j8pt39hxlh3d.cloudfront.net/emoji/emojione/5.0/png/unicode/32/1f477-2642.png" width="32" height="32" alt="MockServiceWorker">](https://redd.gitbook.io/msw/)
+[<img src="https://raw.githubusercontent.com/sarahdayan/dinero.js/develop/logo.png" width="32" height="32" alt="Dinero.js">](https://sarahdayan.github.io/dinero.js/)
 
 ## Table of Contents
 - [Favorites](#favorites)
@@ -127,6 +128,7 @@ Most of the libraries are for vanilla, but there are som beautiful framework spe
 - [howler.js](https://howlerjs.com) - Audio library for the modern web. howler.js makes working with audio in JavaScript easy and reliable across all platforms.
 - [Video.js](https://videojs.com) - Make your player yours with the world's most popular open source HTML5 player framework
 - [BundlePhobia](https://bundlephobia.com) - find the cost of adding a npm package to your bundle
+- [Dinero.js](https://sarahdayan.github.io/dinero.js/) - is a library for working with monetary values in JavaScript.
 
 #### JS Testing
 - [Mirage JS](https://miragejs.com) - Mirage JS is an API mocking library that lets you build, test and share a complete working JavaScript application without having to rely on any backend services.
